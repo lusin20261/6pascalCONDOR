@@ -8,6 +8,6 @@ print("La divisiónes: ",a/b)
 print("La suma: ",a+b)
 print("La resta: ",a-b)
 print("La potencia: ",a ** b)
-print("La radiación: ",a ** (b/a))
+print("La radiación: ",a ** (1/b))
 # Agrega aquí también la suma, la resta y cualquier otra operación que quieras
 print("=====Gracias=====")
