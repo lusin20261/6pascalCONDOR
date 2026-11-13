@@ -1,0 +1,13 @@
+print("=====Bienvenido a mi calculadora=====")
+a = input("Ingresa el primer número: ")
+b = input("Ingresa el segundo número: ")
+a = int(a)
+b = int(b)
+print("La multiplicación es: ",a*b)
+print("La divisiónes: ",a/b)
+print("La suma: ",a+b)
+print("La resta: ",a-b)
+print("La potencia: ",a ** b)
+print("La radiación: ",a ** (b/a))
+# Agrega aquí también la suma, la resta y cualquier otra operación que quieras
+print("=====Gracias=====")
